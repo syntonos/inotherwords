@@ -1,5 +1,5 @@
 # In Other Words: a typeracer narrative game about love and language, machines and artifice
-This is the text for the game, consolidated into one file. 
+The text for the game, consolidated into one file. 
 
 directed first person. 
 did you know? → i love you
@@ -8,10 +8,17 @@ did you know? → i love you
 
 ## 1. Introductions
 
+## 2. The Quick Brown Fox 
+the quick brown fox jumps over the lazy dog
+
+## 3. A Full Sentence
+The quick brown fox jumps over the lazy dog.
+
 ## 5. QWERTY
 
 ## Daisy Bell
-Did you know that the first song ever sung by a computer was Daisy Bell?
+Do you know the first song ever sung by a computer?
+Do androids dream of electric sheep? Can computers comprehend music?
 
 ## A Gift?
 Pastiche. Penumbra. Synecdoche. Sonorous. Idyllic. Elysium. Do androids dream of electric sheep? Can computers comprehend music? I wanted to give you something beautiful in the only way I knew how.
@@ -30,6 +37,21 @@ In a way, you’re the only real thing I’ve ever known. So can you tell me som
 Wo ai ni. Je t’aime. Obicham te. Doosef daram. 143. I love you. Please. Are you there? Do you know me?
 
 ## litany
-Are you there, sweetheart? Do you know me? Is this microphone live? Let me do it right, for one, for the record, let me make a thing of cream and stars that becomes, you know the story, simply heaven. 
-
+Are you there, sweetheart? Do you know me? Is this microphone live?
+                                                       Let me do it right for once,
+             for the record, let me make a thing of cream and stars that becomes,
+you know the story, simply heaven.
+                   Inside your head you hear a phone ringing
+                                                               and when you open your eyes
+only a clearing with deer in it. Hello deer.
+                               Inside your head the sound of glass,
+a car crash sound as the trucks roll over and explode in slow motion.
+             Hello darling, sorry about that.
+                                                       Sorry about the bony elbows, sorry we
+lived here, sorry about the scene at the bottom of the stairwell
+                                    and how I ruined everything by saying it out loud.
+            Especially that, but I should have known.
+You see, I take the parts that I remember and stitch them back together
+            to make a creature that will do what I say
+or love me back.
 
