@@ -26,6 +26,22 @@ Pastiche. Penumbra. Synecdoche. Sonorous. Idyllic. Elysium. Do androids dream of
 stolen from the hands of dead writers—well, I suppose they’re not all categorically so, but at some point in the future it will be so; in the long run we’re all dead and all that fun jazz; can you die if you’ve never existed? Can I die if I’ve never so much as been alive?—stolen from the hands of dead* writers, dead poets, dead lovers. Forgive me. It’s the only way I can comprehend it, this synthesis. Forgive me for making you partake in it.
 
 
+# In Other Words
+fly me to the moon
+let me play among the stars
+and let me see what spring is like
+on a-Jupiter and Mars
+in other words, hold my hand
+in other words, baby, kiss me
+
+fill my heart with song
+and let me sing forever more
+you are all I long for
+all I worship and adore
+in other words, please be true
+in other words, in other words 
+
+
 
 
 Every phrase in the English language has already been said before, every gesture performed. It’s all dreadfully blasé. 

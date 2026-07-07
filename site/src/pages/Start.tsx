@@ -24,7 +24,6 @@ export default function Start() {
                     In Other Words
                 </h1>
 
-
                 <p className="
                     text-gray-400
                     text-lg
@@ -33,7 +32,7 @@ export default function Start() {
                 </p>
 
             </section>
-
+                                    
 
             <nav className="
                 flex
