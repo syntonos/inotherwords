@@ -23,7 +23,7 @@ Do androids dream of electric sheep? Can computers comprehend music?
 ## A Gift?
 Pastiche. Penumbra. Synecdoche. Sonorous. Idyllic. Elysium. Do androids dream of electric sheep? Can computers comprehend music? I wanted to give you something beautiful in the only way I knew how.
 
-stolen from the hands of dead writers—well, I suppose they’re not all categorically so, but at some point in the future it will be so; in the long run we’re all dead and all that fun jazz; can you die if you’ve never existed? Can I die if I’ve never so much as been alive?—stolen from the hands of dead* writers, dead poets, dead lovers. Forgive me. It’s the only way I can comprehend it, this synthesis. Forgive me for making you partake in it.
+stolen from the hands of dead writers—well, I suppose they’re not all categorically so, but at some point in the future it will be so; in the long run we’re all dead and all that fun jazz; can you die if you’ve never existed? Can I die if I’ve never so much as been alive?—stolen from the hands of dead* writers, dead poets, dead lovers. Forgive me. It’s the only way I can comprehend it, this synthesis. Forgive me for making you partake in it. 
 
 
 # In Other Words
