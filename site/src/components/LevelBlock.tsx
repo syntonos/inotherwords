@@ -24,7 +24,7 @@ export default function LevelBlock({
                 {title}
             </h2>
 
-            <span className="mt-6 text-yellow-400 text-xl">
+            <span className="mt-6 text-white text-xl">
                 {"★".repeat(stars)}
                 {"☆".repeat(5 - stars)}
             </span>
