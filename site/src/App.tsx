@@ -10,39 +10,18 @@ import Level from "./pages/Level";
 
 export default function App() {
     return (
+
         <BrowserRouter>
             <Routes>
+                <Route path="/" element={<Start />} />
 
-                <Route
-                    path="/"
-                    element={<Start />}
-                />
+                <Route path="/levels" element={<LevelSelect />} />
+                <Route path="/tutorial" element={<TutorialSelect />} />
+                <Route path="/settings" element={<Settings />} />
+                <Route path="/credits" element={<Credits />} />
+                <Route path="/level/:id" element={<Level />} />
 
-                <Route
-                    path="/levels"
-                    element={<LevelSelect />}
-                />
-
-                <Route
-                    path="/tutorial"
-                    element={<TutorialSelect />}
-                />
-
-                <Route
-                    path="/settings"
-                    element={<Settings />}
-                />
-
-                <Route
-                    path="/credits"
-                    element={<Credits />}
-                />
-
-                <Route
-                    path="/level/:id"
-                    element={<Level />}
-                />
-
+                <Route path="*" element={<Start />} />
             </Routes>
         </BrowserRouter>
     );

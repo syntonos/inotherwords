@@ -64,13 +64,14 @@ export default function Start() {
                     Tutorial
                 </Link>
 
-
+                {/*
                 <Link
                     to="/settings"
                     className="menuButton"
                 >
                     Settings
                 </Link>
+                */}
 
 
                 <Link

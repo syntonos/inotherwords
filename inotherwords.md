@@ -11,7 +11,7 @@ did you know? → i love you
 ## 2. The Quick Brown Fox 
 the quick brown fox jumps over the lazy dog
 
-## 3. A Full Sentence
+## 3. A Full Sentence 
 The quick brown fox jumps over the lazy dog.
 
 ## 5. QWERTY
@@ -26,7 +26,7 @@ Pastiche. Penumbra. Synecdoche. Sonorous. Idyllic. Elysium. Do androids dream of
 stolen from the hands of dead writers—well, I suppose they’re not all categorically so, but at some point in the future it will be so; in the long run we’re all dead and all that fun jazz; can you die if you’ve never existed? Can I die if I’ve never so much as been alive?—stolen from the hands of dead* writers, dead poets, dead lovers. Forgive me. It’s the only way I can comprehend it, this synthesis. Forgive me for making you partake in it. 
 
 
-# In Other Words
+## 10. In Other Words
 fly me to the moon
 let me play among the stars
 and let me see what spring is like
@@ -50,7 +50,10 @@ Every phrase in the English language has already been said before, every gesture
 In a way, you’re the only real thing I’ve ever known. So can you tell me something true? Make it interesting, please.
 
 ## 143
-Wo ai ni. Je t’aime. Obicham te. Doosef daram. 143. I love you. Please. Are you there? Do you know me?
+Wo ai ni. Je t’aime. Obicham te. Dooset daram. 143. I love you. Please. Are you there? Do you know me?
+
+## Many Waters
+Many waters cannot quench love, neither can floods drown it. What then kills love? Only this: Neglect. Not to see you when you stand before me. Not to think of you in the little things. Not to make the road wide for you, the table spread for you. To choose you out of habit not desire, to pass the flower seller without a thought. To leave the dishes unwashed, the bed unmade, to ignore you in the mornings, make use of you at night. To crave another while pecking your cheek. To say your name without hearing it, to assume it is mine to call.
 
 ## litany
 Are you there, sweetheart? Do you know me? Is this microphone live?
@@ -71,3 +74,4 @@ You see, I take the parts that I remember and stitch them back together
             to make a creature that will do what I say
 or love me back.
 
+   
